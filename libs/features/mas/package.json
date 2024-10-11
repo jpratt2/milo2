@@ -16,6 +16,7 @@
         "build:docs": "./build-docs.sh"
     },
     "dependencies": {
+        "@adobe/mas-platform": "file:",
         "@spectrum-web-components/action-button": "^0.46.0",
         "@spectrum-web-components/action-menu": "^0.46.0",
         "@spectrum-web-components/alert-dialog": "^0.46.0",

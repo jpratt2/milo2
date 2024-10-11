@@ -17,6 +17,7 @@
         "test:ci": "wtr --config ./web-test-runner.config.mjs --coverage"
     },
     "dependencies": {
+        "@adobe/mas-web-components": "file:"
     },
     "devDependencies": {
         "@web/dev-server": "^0.3.1",

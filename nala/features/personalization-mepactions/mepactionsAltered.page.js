@@ -19,6 +19,6 @@ export default class PZN {
     this.sec10 = this.page.locator('h3').nth(12);
     this.sec10link = this.page.locator('a[daa-ll="Explore the premium -2--Inserted after repla"]');
     this.h3s = this.page.locator('h3').locator('visible=true');
-    this.secLast = this.page.locator('h3').last(); 
+    this.secLast = this.page.locator('h3').last();
   }
 }

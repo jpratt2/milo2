@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@adobe/mas": "file:"
   },
   "devDependencies": {
     "@web/test-runner": "^0.13.27",

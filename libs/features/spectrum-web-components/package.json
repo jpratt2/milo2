@@ -45,7 +45,8 @@
     "@spectrum-web-components/tooltip": "^0.47.2",
     "@spectrum-web-components/tray": "^0.47.2",
     "@spectrum-web-components/underlay": "^0.47.2",
-    "lit": "^2.8.0"
+    "lit": "^2.8.0",
+    "milo-spectrum-web-components": "file:"
   },
   "devDependencies": {
     "esbuild": "^0.19.12"
