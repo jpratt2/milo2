@@ -4,7 +4,7 @@ module.exports = {
 
     {
       tcid: '1',
-      name: 'confirm the default experience on stage',
+      name: 'confirm the default experience',
       path: '/drafts/nala/features/personalization/mep-actions/pzn-actions?mep=%2Fdrafts%2Fnala%2Ffeatures%2Fpersonalization%2Fmep-actions%2Fpzn-actions.json--default',
       data: {
         headerCount: 7,
@@ -20,7 +20,7 @@ module.exports = {
 
     {
       tcid: '2',
-      name: 'confirm the altered experience on stage',
+      name: 'confirm various page actions using mep',
       path: '/drafts/nala/features/personalization/mep-actions/pzn-actions?mep=%2Fdrafts%2Fnala%2Ffeatures%2Fpersonalization%2Fmep-actions%2Fpzn-actions.json--all',
       data: {
         headerCount: 12,
