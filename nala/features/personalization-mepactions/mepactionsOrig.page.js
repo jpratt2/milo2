@@ -9,6 +9,6 @@ export default class PZN {
     this.sec2 = this.page.locator('h3').nth(0);
     this.sec8 = this.page.locator('h3').nth(6);
     this.h3s = this.page.locator('h3');
-    this.secLast = this.page.locator('h3').last(); 
+    this.secLast = this.page.locator('h3').last();
   }
 }
